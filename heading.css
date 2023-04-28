@@ -1,0 +1,28 @@
+body div {
+    text-shadow: 0px 0px #C73134;
+}
+p {
+    /* [disabled]background-color: #A0CFCF; */
+    color: #1E272B;
+    text-align: left;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: medium;
+}
+body span {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: medium;
+    text-align: center;
+    color: #214747;
+}
+.menu_bar {
+    text-align: center;
+    color: #214747;
+    font-size: large;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.fluid.footer_div {
+    color: #214747;
+    font-size: large;
+    text-align: center;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
